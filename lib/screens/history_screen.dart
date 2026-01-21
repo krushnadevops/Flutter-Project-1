@@ -8,3 +8,5 @@ class HistoryScreen extends StatelessWidget {
     return const Placeholder();
   }
 }
+
+class DemoClass{}

@@ -10,3 +10,4 @@ class HistoryScreen extends StatelessWidget {
 }
 
 class DemoClass{}
+class ForErrorOnMain1{}
